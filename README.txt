@@ -1,4 +1,4 @@
-	TITLE : Head and Tail commands
+	TITLE : head Command in Linux
 	
 Name: Shubham Abasaheb Devkate
 Mis : 111508024
