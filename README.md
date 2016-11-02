@@ -1,1 +1,0 @@
-# head-command-in-linux
